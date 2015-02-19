@@ -1,0 +1,23 @@
+{
+  "name": "qblog-category-sort",
+  "version": "1.0.0",
+  "authors": [
+    "Hokuken Inc. <customer@hokuken.com>"
+  ],
+  "description": "Sort QBlog category list",
+  "main": "index.js",
+  "keywords": [
+    "QHM"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
